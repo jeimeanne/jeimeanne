@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeimeanne&label=Profile%20views&color=0e75b6&style=flat" alt="jeimeanne" /> </p>
 
-- 💻 I’m currently working on **on building my Github account**
+- 💻 I’m currently working on **building my Github account**
 
-- 🌱 I’m currently learning **React, Node.js and tailwind css... because you know, they're cool 😎**
+- 🌱 I’m currently learning **React, Node.js, Sanity.io and tailwind css...** because you know, they're cool 😎
 
 - 💬 Ask me about **kdrama (안녕)**
 
-- 🕵🏻‍♀️ I'm looking for a new work opportunity... (CV soon)
+- 🕵🏻‍♀️ I'm currently looking for a **new work opportunity**
 
 - ⚡ Fun fact **I am now a mac user 👩🏻‍💻**
 
