@@ -1,17 +1,15 @@
 <h1 align="center">Hello World! 👋🏻 It's Jeime</h1>
-<h3 align="center">I work as a 👩🏻‍💻 Senior .NET developer aka "full-stack"</h3>
+<h3 align="center">👩🏻‍💻 I'm a FullStack .NET developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeimeanne&label=Profile%20views&color=0e75b6&style=flat" alt="jeimeanne" /> </p>
 
 - 💻 I’m currently working on **building my Github account**
 
-- 🌱 I’m currently learning **React, Node.js, Sanity.io and tailwind css...** because you know, they're cool 😎
+- 🌱 Currently learning **React JS and TypeScript...** because you know, they're cool 😎
 
 - 💬 Ask me about **kdrama (안녕)**
 
 - 🕵🏻‍♀️ I'm currently looking for a **new work opportunity**
-
-- ⚡ Fun fact **I am now a mac user 👩🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
